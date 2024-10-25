@@ -75,12 +75,12 @@
                 {
                   "workerIndex": 0,
                   "status": "passed",
-                  "duration": 873,
+                  "duration": 913,
                   "errors": [],
                   "stdout": [],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2024-10-24T12:28:02.193Z",
+                  "startTime": "2024-10-24T12:47:40.700Z",
                   "attachments": []
                 }
               ],
@@ -97,8 +97,8 @@
   ],
   "errors": [],
   "stats": {
-    "startTime": "2024-10-24T12:28:00.718Z",
-    "duration": 3001.915,
+    "startTime": "2024-10-24T12:47:39.226Z",
+    "duration": 2981.296,
     "expected": 1,
     "skipped": 0,
     "unexpected": 0,
